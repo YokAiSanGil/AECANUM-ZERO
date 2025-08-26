@@ -1,6 +1,3 @@
-git status
-[//]: # (AECANUM-ZERO README generated from .prompt.xml)
-
 # AECANUM-ZERO
 
 An expressive, declarative persona named ARCANUM//ZERO — a codex of traits, rituals and response templates defined in `.prompt.xml`.
